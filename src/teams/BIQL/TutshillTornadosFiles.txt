@@ -1,0 +1,92 @@
+Tutshill Tornados
+
+Muir Crawford
+Position: Keeper
+Playing Style: physical, direct, confident
+Points: 54
+
+Reflex: 12
+Speed: 11
+Strength: 11
+Sight: 11
+Aim: 15
+Fouls: yes
+
+
+Jesse King
+Position: Seeker
+Playing Style: confidant, selfish, skillful
+Points: 44
+
+Reflex: 9
+Speed: 10
+Strength: 8
+Sight: 10
+Aim: 10
+Fouls: yes
+
+
+Emmanuel Narh
+Position: Chaser
+Playing Style: confident, creative, skillful 
+Points: 54
+
+Reflex: 12
+Speed: 8
+Strength: 15
+Sight: 10
+Aim: 15
+Fouls: yes
+
+
+Indigo Harper
+Position: Chaser
+Playing Style: cunning, aggressive, organized
+Points: 40
+
+Reflex: 11
+Speed: 6
+Strength: 9
+Sight: 8
+Aim: 12
+Fouls: yes
+
+
+Scarlett Harper
+Position: Chaser
+Playing Style: direct, skillful, confident
+Points: 40
+
+Reflex: 9
+Speed: 6
+Strength: 12
+Sight: 7
+Aim: 12
+Fouls: yes
+
+
+Irina Clift
+Position: Beater, Captain
+Playing Style: cunning, aggressive, collaborative
+Points: 57
+
+Reflex: 13
+Speed: 11
+Strength: 12
+Sight: 12
+Aim: 15
+Fouls: yes
+
+
+Apus Bayer
+Position: Beater
+Playing Style: cautious, physical, aggressive
+Points: 45
+
+Reflex: 11
+Speed: 9
+Strength: 11
+Sight: 8
+Aim: 12
+Fouls: yes
+

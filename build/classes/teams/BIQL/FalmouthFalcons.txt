@@ -1,0 +1,50 @@
+Falmouth Falcons
+Jacob Allen
+11
+8
+7
+10
+13
+true
+Alaric Shields
+10
+14
+5
+12
+11
+true
+Sawyer Ashbury
+10
+5
+11
+8
+13
+false
+Derowen Trenance
+9
+11
+9
+8
+12
+true
+Emerald Keller
+10
+7
+11
+7
+11
+true
+Cedric Donnohart
+12
+11
+14
+11
+15
+true
+Ian McKellan
+11
+10
+12
+8
+14
+true

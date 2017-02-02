@@ -1,0 +1,50 @@
+Appleby Arrows
+Anora Loxby
+13
+11
+5
+11
+11
+false
+Chambray Valentine
+8
+11
+8
+8
+10
+true
+Amos Blackwood
+12
+11
+12
+13
+15
+false
+Pax Sinclair
+11
+8
+10
+9
+13
+true
+Elizabeth Jameson
+8
+11
+8
+7
+11
+true
+Kris Masters
+10
+12
+11
+9
+13
+false
+Elon Faust 
+9
+11
+9
+8
+11
+true

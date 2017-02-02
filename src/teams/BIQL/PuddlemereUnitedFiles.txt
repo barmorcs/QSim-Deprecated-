@@ -1,0 +1,92 @@
+Puddlemere United
+
+Cadmus Carmondy
+Position: Keeper
+Playing Style: collaborative, confident, aggressive
+Points: 38
+
+Reflex: 10
+Speed: 5
+Strength: 8
+Sight: 9
+Aim: 12
+Fouls: yes
+
+
+Curtis Payne
+Position: Seeker
+Playing Style: selfish, flashy, creative
+Points: 44
+
+Reflex: 9
+Speed: 11
+Strength: 7
+Sight: 10
+Aim: 10
+Fouls: yes
+
+
+Frederick Barnett
+Position: Chaser, Captain
+Playing Style: physical, organized, collaborative
+Points: 58
+
+Reflex: 12
+Speed: 11
+Strength: 13
+Sight: 12
+Aim: 16
+Fouls: yes
+
+
+Bijou Babineaux
+Position: Chaser
+Playing Style: aggressive, selfish, confident
+Points: 51
+
+Reflex: 12
+Speed: 8
+Strength: 14
+Sight: 8
+Aim: 14
+Fouls: yes
+
+
+Ceri Howells
+Position: Chaser
+Playing Style: cunning, aggressive, selfish
+Points: 36
+
+Reflex: 10
+Speed: 6
+Strength: 9
+Sight: 5
+Aim: 11
+Fouls: yes
+
+
+Sebastian Calloway 
+Position: Beater
+Playing Style: physical, direct, creative
+Points: 44
+
+Reflex: 9
+Speed: 10
+Strength: 11
+Sight: 7
+Aim: 13
+Fouls: yes
+
+
+Kohen Rice
+Position: Beater
+Playing Style: skillful, fast, collaborative
+Points: 42
+
+Reflex: 9
+Speed: 10
+Strength: 9
+Sight: 9
+Aim: 11
+Fouls: no
+

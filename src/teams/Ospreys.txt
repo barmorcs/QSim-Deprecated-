@@ -1,0 +1,50 @@
+Ospreys
+Oscar Fangio
+11
+7
+5
+6
+9
+true
+Ingalill Nattochdag
+5
+7
+2
+7
+8
+false
+Aureo Macias
+7
+5
+7
+4
+8
+false
+Joss Mulligan
+6
+4
+6
+4
+7
+true
+Gemma Wolfewood
+5
+3
+6
+4
+5
+false
+Harlon Fogerty
+6
+6
+8
+6
+8
+true
+Andromeda Seaver
+7
+6
+8
+5
+5
+true

@@ -1,0 +1,50 @@
+Wimbourne Wasps
+Joel Lawrence
+12
+7
+5
+10
+12
+false
+Laurie Swing-Rilke
+9
+14
+5
+12
+10
+false
+Jade Elliott
+14
+9
+15
+12
+16
+false
+Chalcedony Valentine
+10
+7
+9
+8
+12
+true
+Gwynn Rhees
+9
+7
+10
+7
+11
+true
+Peyton Pratt
+14
+11
+14
+10
+15
+true
+Alan Darcy
+7
+9
+10
+7
+11
+true

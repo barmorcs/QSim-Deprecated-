@@ -1,0 +1,92 @@
+Wimbourne Wasps
+
+Joel Lawrence
+Position: Keeper
+Playing Style: organized, creative, direct
+Points: 40
+
+Reflex: 12
+Speed: 7
+Strength: 5
+Sight: 10
+Aim: 12
+Fouls: no
+
+
+Laurie Swing-Rilke
+Position: Seeker
+Playing Style: cautious, fast, creative
+Points: 44
+
+Reflex: 9
+Speed: 14
+Strength: 5
+Sight: 12
+Aim: 10
+Fouls: no
+
+
+Jade Elliott
+Position: Chaser
+Playing Style: creative, skillful, collaborative
+Points: 60
+
+Reflex: 14
+Speed: 9
+Strength: 15
+Sight: 12
+Aim: 16
+Fouls: no
+
+
+Chalcedony Valentine
+Position: Chaser
+Playing Style: collaborative, creative, cunning
+Points: 40
+
+Reflex: 10
+Speed: 7
+Strength: 9
+Sight: 8
+Aim: 12
+Fouls: yes
+
+
+Gwynn Rhees
+Position: Chaser
+Playing Style: quick, aggressive, skillful
+Points: 38
+
+Reflex: 9
+Speed: 7
+Strength: 10
+Sight: 7
+Aim: 11
+Fouls: yes
+
+
+Peyton Pratt
+Position: Beater
+Playing Style: aggressive, selfish, creative
+Points: 59
+
+Reflex: 14
+Speed: 11
+Strength: 14
+Sight: 10
+Aim: 15
+Fouls: yes
+
+
+Alan Darcy
+Position: Beater
+Playing Style: physical, direct, collaborative. 
+Points: 38
+
+Reflex: 7
+Speed: 9
+Strength: 10
+Sight: 7
+Aim: 11
+Fouls: yes
+

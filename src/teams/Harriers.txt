@@ -1,0 +1,50 @@
+Harriers
+Llewellyn Taaffe
+8
+7
+3
+6
+7
+false
+Asher Roscoe
+6
+8
+4
+8
+10
+true
+Madeline Archer
+5
+5
+7
+5
+7
+true
+Redding Fox
+6
+6
+4
+4
+7
+true
+Eliza Kempthorne
+5
+4
+6
+4
+5
+true
+Wesley Stuart
+8
+6
+9
+7
+7
+false
+Wilhelmina Waldorf Astor
+5
+6
+8
+4
+5
+true

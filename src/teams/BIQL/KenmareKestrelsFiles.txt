@@ -1,0 +1,92 @@
+Kenmare Kestrels
+
+Conor Mooney
+Position: Keeper
+Playing Style: direct, creative, aggressive
+Points: 38
+
+Reflex: 11
+Speed: 6
+Strength: 7
+Sight: 8
+Aim: 12
+Fouls: yes
+
+
+Morrigan Nishihara
+Position: Seeker
+Playing Style: skillful, confident, fast 
+Points: 50
+
+Reflex: 10
+Speed: 13
+Strength: 9
+Sight: 12
+Aim: 12
+Fouls: yes
+
+
+Mortimer Price
+Position: Chaser
+Playing Style: skillful, cunning, organized
+Points: 49
+
+Reflex: 12
+Speed: 8
+Strength: 11
+Sight: 10
+Aim: 14
+Fouls: yes
+
+
+Róisín Byrne
+Position: Chaser
+Playing Style: physical, organized, collaborative
+Points: 44
+
+Reflex: 9
+Speed: 8
+Strength: 11
+Sight: 9
+Aim: 13
+Fouls: yes
+
+
+Aoife Skelley
+Position: Chaser
+Playing Style: cunning, selfish, aggressive 
+Points: 43
+
+Reflex: 11
+Speed: 8
+Strength: 10
+Sight: 7
+Aim: 12
+Fouls: yes
+
+
+Ler O’Rahilly
+Position: Beater, Captain
+Playing Style: direct, aggressive, organized 
+Points: 57
+
+Reflex: 13
+Speed: 11
+Strength: 12
+Sight: 12
+Aim: 15
+Fouls: yes
+
+
+Quinlan MacEnroe
+Position: Beater
+Playing Style: physical, cautious, collaborative
+Points: 42
+
+Reflex: 9
+Speed: 10
+Strength: 9
+Sight: 9
+Aim: 11
+Fouls: yes
+

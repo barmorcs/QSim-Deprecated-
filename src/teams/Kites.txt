@@ -1,0 +1,50 @@
+Kites
+Lucas Clague
+5
+2
+2
+5
+4
+false
+Blaire McKenzie
+3
+5
+3
+9
+5
+false
+Clark Boston
+4
+4
+5
+4
+4
+false
+Erik Skovgaard
+3
+2
+4
+3
+4
+true
+Matilda Schorr
+3
+3
+4
+2
+4
+true
+Joby Blake
+6
+5
+6
+4
+5
+true
+Terrance Pelham
+4
+3
+5
+3
+5
+true

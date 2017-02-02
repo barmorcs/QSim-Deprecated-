@@ -1,0 +1,92 @@
+Falmouth Falcons
+
+Jacob Allen
+Position: Keeper
+Playing Style: direct, confident, organized
+Points: 43
+
+Reflex: 11
+Speed: 8
+Strength: 7
+Sight: 10
+Aim: 13
+Fouls: yes
+
+
+Alaric Shields
+Position: Seeker
+Playing Style: cunning, creative, quick
+Points: 46
+
+Reflex: 10
+Speed: 14
+Strength: 5
+Sight: 12
+Aim: 11
+Fouls: yes
+
+
+Sawyer Ashbury
+Position: Chaser
+Playing Style: creative, skillful, collaborative
+Points: 41
+
+Reflex: 10
+Speed: 5
+Strength: 11
+Sight: 8
+Aim: 13
+Fouls: no
+
+
+Derowen Trenance
+Position: Chaser
+Playing Style: cunning, fast, confident
+Points: 43
+
+Reflex: 9
+Speed: 11
+Strength: 9
+Sight: 8
+Aim: 12
+Fouls: yes
+
+
+Emerald Keller
+Position: Chaser
+Playing Style: quick, skillful, aggressive
+Points: 40
+
+Reflex: 10
+Speed: 7
+Strength: 11
+Sight: 7
+Aim: 11
+Fouls: yes
+
+
+Cedric Donnohart
+Position: Beater, Captain
+Playing Style: direct, skillful, confident
+Points: 57
+
+Reflex: 12
+Speed: 11
+Strength: 14
+Sight: 11
+Aim: 15
+Fouls: yes
+
+
+Ian McKellan
+Position: Beater
+Playing Style: physical, cunning, aggressive
+Points: 49
+
+Reflex: 11
+Speed: 10
+Strength: 12
+Sight: 8
+Aim: 14
+Fouls: yes
+

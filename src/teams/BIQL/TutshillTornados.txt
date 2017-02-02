@@ -1,0 +1,50 @@
+Tutshill Tornados
+Muir Crawford
+12
+11
+11
+11
+15
+true
+Jesse King
+9
+10
+8
+10
+10
+true
+Emmanuel Narh
+12
+8
+15
+10
+15
+true
+Indigo Harper
+11
+6
+9
+8
+12
+true
+Scarlett Harper
+9
+6
+12
+7
+12
+true
+Irina Clift
+13
+11
+12
+12
+15
+true
+Apus Bayer
+11
+9
+11
+8
+12
+true

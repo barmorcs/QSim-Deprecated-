@@ -1,0 +1,92 @@
+Chudley Cannons
+
+Ellery Jones
+Position: Keeper, Captain
+Playing Style: physical, aggressive, skillful
+Points: 53
+
+Reflex: 14
+Speed: 8
+Strength: 12
+Sight: 10
+Aim: 15
+Fouls: yes
+
+
+Farrah Leroux
+Position: Seeker
+Playing Style: organized, selfish, quick
+Points: 36
+
+Reflex: 8
+Speed: 12
+Strength: 3
+Sight: 10
+Aim: 8
+Fouls: yes
+
+
+Axel Alderich
+Position: Chaser
+Playing Style: organized, quick, direct
+Points: 43
+
+Reflex: 9
+Speed: 11
+Strength: 8
+Sight: 9
+Aim: 12
+Fouls: no
+
+
+Artemis Greco
+Position: Chaser
+Playing Style: skillful, confident, direct
+Points: 66
+
+Reflex: 14
+Speed: 11
+Strength: 17
+Sight: 12
+Aim: 18
+Fouls: yes
+
+
+Elias Storm
+Position: chaser
+Playing Style: cautious, fast, collaborative
+Points: 39
+
+Reflex: 8
+Speed: 10
+Strength: 8
+Sight: 9
+Aim: 10
+Fouls: no
+
+
+Benjamin Lawrence
+Position: Beater
+Playing Style: physical, direct, fast
+Points: 45
+
+Reflex: 9
+Speed: 13
+Strength: 10
+Sight: 7
+Aim: 12
+Fouls: yes
+
+
+Samuel Lawrence
+Position: Beater
+Playing Style: creative, aggressive, organized
+Points: 45
+
+Reflex: 12
+Speed: 7
+Strength: 10
+Sight: 9
+Aim: 13
+Fouls: yes
+

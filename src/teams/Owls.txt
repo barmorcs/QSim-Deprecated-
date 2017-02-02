@@ -1,0 +1,50 @@
+Owls
+Annalise Martin
+6
+4
+3
+3
+4
+true
+Leland McCrae
+3
+5
+2
+6
+3
+false
+Dominic Anglin
+5
+3
+4
+3
+4
+true
+Shannon Brierley
+4
+3
+5
+3
+4
+true
+Felix Millidge
+4
+3
+5
+3
+4
+true
+Liam Pratt
+5
+6
+6
+3
+5
+false
+Violet Harcourt
+4
+4
+5
+3
+5
+true

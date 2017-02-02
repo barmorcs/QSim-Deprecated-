@@ -1,0 +1,92 @@
+Pride of
+
+Salvatore West
+Position: Keeper
+Playing Style: direct, selfish, skillful
+Points: 49
+
+Reflex: 13
+Speed: 9
+Strength: 9
+Sight: 10
+Aim: 13
+Fouls: yes
+
+
+Alex Francis
+Position: Seeker
+Playing Style: physical, collaborative, fast
+Points: 45
+
+Reflex: 8
+Speed: 14
+Strength: 7
+Sight: 11
+Aim: 11
+Fouls: yes
+
+
+Isabelle Solomon
+Position: Chaser
+Playing Style: skillful, physical, aggressive
+Points: 47
+
+Reflex: 11
+Speed: 7
+Strength: 14
+Sight: 8
+Aim: 13
+Fouls: yes
+
+
+Phylip Maddix
+Position: Chaser
+Playing Style: skillful, direct, quick
+Points: 43
+
+Reflex: 9
+Speed: 10
+Strength: 10
+Sight: 8
+Aim: 12
+Fouls: no
+
+
+Aidan Edwards
+Position: Chaser
+Playing Style: cunning, physical, selfish
+Points: 40
+
+Reflex: 10
+Speed: 9
+Strength: 10
+Sight: 5
+Aim: 11
+Fouls: yes
+
+
+Kirsty Buchanan
+Position: Beater, Captain
+Playing Style: cautious, skillful, collaborative
+Points: 55
+
+Reflex: 13
+Speed: 10
+Strength: 12
+Sight: 12
+Aim: 14
+Fouls: no
+
+
+Emmett Boone
+Position: Beater
+Playing Style: skillful, cautious, fast
+Points: 45
+
+Reflex: 11
+Speed: 11
+Strength: 9
+Sight: 9
+Aim: 11
+Fouls: no
+

@@ -1,0 +1,92 @@
+Holyhead Harpies
+
+Giselle Callaghan
+Position: Keeper
+Playing Style: skillful, confident, collaborative
+Points: 55
+
+Reflex: 14
+Speed: 8
+Strength: 11
+Sight: 13
+Aim: 15
+Fouls: yes
+
+
+Kestra Hansen
+Position: Seeker 
+Playing Style: fast, skillful, creative
+Points: 41
+
+Reflex: 9
+Speed: 11
+Strength: 6
+Sight: 11
+Aim: 10
+Fouls: no
+
+
+Eleanora Nolan
+Position: Chaser
+Playing Style: skillful, confident, collaborative
+Points: 48
+
+Reflex: 10
+Speed: 7
+Strength: 13
+Sight: 10
+Aim: 14
+Fouls: yes
+
+
+Lysistrata Lincke
+Position: Chaser
+Playing Style: physical, cunning, confident
+Points: 42
+
+Reflex: 9
+Speed: 9
+Strength: 11
+Sight: 7
+Aim: 12
+Fouls: yes
+
+
+Hope Chapman
+Position: Chaser
+Playing Style: cautious, cunning, quick
+Points: 38
+
+Reflex: 9
+Speed: 11
+Strength: 6
+Sight: 8
+Aim: 10
+Fouls: yes
+
+
+Teddy Cartwright
+Position: Beater
+Playing Style: physical, cunning, skillful
+Points: 46
+
+Reflex: 11
+Speed: 9
+Strength: 12
+Sight: 7
+Aim: 13
+Fouls: yes
+
+
+Nesta Jones-Batra
+Position: Beater
+Playing Style: physical, direct, skillful
+Points: 41
+
+Reflex: 9
+Speed: 8
+Strength: 12
+Sight: 6
+Aim: 12
+Fouls: yes
+

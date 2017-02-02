@@ -1,0 +1,50 @@
+Gryffindor
+Annalise Martin
+6
+3
+3
+5
+5
+true
+Shale Monroe
+6
+6
+4
+6
+5
+true
+Rupert Scrivener
+7
+5
+8
+7
+8
+false
+Blaire McKenzie
+4
+6
+4
+9
+5
+true
+Sophie Middleboot
+4
+3
+4
+3
+4
+false
+Andromeda Seaver
+7
+7
+8
+6
+7
+true
+Liam Pratt
+5
+7
+6
+4
+7
+true
