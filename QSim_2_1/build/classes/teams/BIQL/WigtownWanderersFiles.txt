@@ -1,0 +1,92 @@
+Wigtown Wanderers
+
+Zak Byrne
+Position: Keeper
+Playing Style: selfish, quick, confident
+Points: 48
+
+Reflex: 12
+Speed: 12
+Strength: 8
+Sight: 9
+Aim: 12
+Fouls: yes
+
+
+Jac Caddick
+Position: Seeker
+Playing Style: skillful, aggressive, fast
+Points: 47
+
+Reflex: 10
+Speed: 11
+Strength: 9
+Sight: 11
+Aim: 12
+Fouls: yes
+
+
+Talon Meadows
+Position: Chaser, Captain
+Playing Style: organized, cautious, cunning
+Points: 59
+
+Reflex: 14
+Speed: 12
+Strength: 11
+Sight: 13
+Aim: 15
+Fouls: yes
+
+
+Malachite March
+Position: Chaser
+Playing Style: creative, collaborative, direct
+Points: 40
+
+Reflex: 9
+Speed: 7
+Strength: 10
+Sight: 8
+Aim: 12
+Fouls: no
+
+
+!Xobile Nanule
+Position: Chaser
+Playing Style: collaborative, creative, direct
+Points: 47
+
+Reflex: 10
+Speed: 9
+Strength: 11
+Sight: 10
+Aim: 13
+Fouls: no
+
+
+Rhys Bellis
+Position: Beater
+Playing Style: aggressive, fast, direct
+Points: 52
+
+Reflex: 11
+Speed: 13
+Strength: 11
+Sight: 10
+Aim: 13
+Fouls: yes
+
+
+Onyx Black
+Position: Beater
+Playing Style: aggressive, cunning, physical
+Points: 43
+
+Reflex: 10
+Speed: 9
+Strength: 11
+Sight: 7
+Aim: 12
+Fouls: yes
+

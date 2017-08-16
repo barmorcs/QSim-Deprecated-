@@ -1,0 +1,50 @@
+Wigtown Wanderers
+Zak Byrne
+12
+12
+8
+9
+12
+true
+Jac Caddick
+10
+11
+9
+11
+12
+true
+Talon Meadows
+14
+12
+11
+13
+15
+true
+Malachite March
+9
+7
+10
+8
+12
+false
+!Xobile Nanule
+10
+9
+11
+10
+13
+false
+Rhys Bellis
+11
+13
+11
+10
+13
+true
+Onyx Black
+10
+9
+11
+7
+12
+true

@@ -1,0 +1,50 @@
+Holyhead Harpies
+Giselle Callaghan
+14
+8
+11
+13
+15
+true
+Kestra Hansen
+9
+11
+6
+11
+10
+false
+Eleanora Nolan
+10
+7
+13
+10
+14
+true
+Lysistrata Lincke
+9
+9
+11
+7
+12
+true
+Hope Chapman
+9
+11
+6
+8
+10
+true
+Teddy Cartwright
+11
+9
+12
+7
+13
+true
+Nesta Jones-Batra
+9
+8
+12
+6
+12
+true

@@ -1,0 +1,50 @@
+Ravenclaw
+Imogen Crutchley
+8
+5
+5
+6
+7
+true
+Talfryn Tyrdlebyrd
+5
+8
+5
+7
+7
+true
+Aris Odinn
+4
+2
+4
+4
+3
+true
+Clark Boston
+5
+5
+6
+5
+5
+false
+Madeline Archer
+7
+6
+5
+5
+8
+false
+Terrance Pelham
+4
+4
+5
+4
+5
+true
+Joby Blake
+6
+5
+7
+5
+5
+true

@@ -1,0 +1,50 @@
+Team Griffin
+Llewellyn Taaffe
+9
+7
+4
+7
+8
+false
+Leland McCrae
+4
+5
+2
+6
+4
+false
+Joss Mulligan
+6
+4
+7
+5
+8
+true
+Dominic Anglin
+5
+6
+5
+3
+4
+true
+Wendell Kindellame
+3
+3
+5
+3
+4
+true
+Andromeda Seaver
+7
+7
+8
+6
+7
+true
+Liam Pratt
+5
+7
+6
+4
+7
+true

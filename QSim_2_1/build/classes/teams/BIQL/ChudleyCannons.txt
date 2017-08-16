@@ -1,0 +1,50 @@
+Chudley Cannons
+Ellery Jones
+14
+8
+12
+10
+15
+true
+Farrah Leroux
+8
+12
+3
+10
+8
+true
+Axel Alderich
+9
+11
+8
+9
+12
+false
+Artemis Greco
+14
+11
+17
+12
+18
+true
+Elias Storm
+8
+10
+8
+9
+10
+false
+Benjamin Lawrence
+9
+13
+10
+7
+12
+true
+Samuel Lawrence
+12
+7
+10
+9
+13
+true

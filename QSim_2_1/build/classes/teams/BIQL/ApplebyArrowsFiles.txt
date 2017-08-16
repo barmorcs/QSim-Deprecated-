@@ -1,0 +1,92 @@
+Appleby Arrows
+
+Anora Loxby
+Position: Keeper
+Playing Style: cautious, creative, fast
+Points: 45
+
+Reflex: 13
+Speed: 11
+Strength: 5
+Sight: 11
+Aim: 11
+Fouls: no
+
+
+Chambray Valentine
+Position: Seeker
+Playing Style: physical, selfish, confident
+Points: 40
+
+Reflex: 8
+Speed: 11
+Strength: 8
+Sight: 8
+Aim: 10
+Fouls: yes
+
+
+Amos Blackwood
+Position: Chaser, Captain
+Playing Style: direct, organized, collaborative
+Points: 57
+
+Reflex: 12
+Speed: 11
+Strength: 12
+Sight: 13
+Aim: 15
+Fouls: no
+
+
+Pax Sinclair
+Position: Chaser
+Playing Style: creative, collaborative, cunning
+Points: 45
+
+Reflex: 11
+Speed: 8
+Strength: 10
+Sight: 9
+Aim: 13
+Fouls: yes
+
+
+Elizabeth Jameson
+Position: Chaser
+Playing Style: quick, direct, cunning
+Points: 39
+
+Reflex: 8
+Speed: 11
+Strength: 8
+Sight: 7
+Aim: 11
+Fouls: yes
+
+
+Kris Masters
+Position: Beater
+Playing Style: skillful, direct, fast
+Points: 49
+
+Reflex: 10
+Speed: 12
+Strength: 11
+Sight: 9
+Aim: 13
+Fouls: no
+
+
+Elon Faust 
+Position: Beater
+Playing Style: aggressive, direct, fast
+Points: 42
+
+Reflex: 9
+Speed: 11
+Strength: 9
+Sight: 8
+Aim: 11
+Fouls: yes
+

@@ -1,0 +1,50 @@
+Caerphilly Catapults
+Aeddan Conway
+12
+9
+7
+13
+14
+false
+Inda Jespersdottir
+9
+12
+6
+11
+11
+true
+Gethin Rees
+8
+10
+10
+7
+11
+true
+Estelle Van Straten
+9
+5
+11
+8
+12
+false
+Drywsone Charles
+9
+11
+10
+9
+13
+false
+Julian Fernandez
+10
+8
+14
+7
+13
+true
+Tobias Carey
+8
+11
+8
+7
+11
+true

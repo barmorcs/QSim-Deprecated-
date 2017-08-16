@@ -1,0 +1,92 @@
+Caerphilly Catapults
+
+Aeddan Conway
+Position: Keeper, Captain
+Playing Style: collaborative, organized, direct
+Points: 49
+
+Reflex: 12
+Speed: 9
+Strength: 7
+Sight: 13
+Aim: 14
+Fouls: no
+
+
+Inda Jespersdottir
+Position: Seeker
+Playing Style: skillful, cunning, fast
+Points: 43
+
+Reflex: 9
+Speed: 12
+Strength: 6
+Sight: 11
+Aim: 11
+Fouls: yes
+
+
+Gethin Rees
+Position: Chaser
+Playing Style: fast, direct, confident
+Points: 40
+
+Reflex: 8
+Speed: 10
+Strength: 10
+Sight: 7
+Aim: 11
+Fouls: yes
+
+
+Estelle Van Straten
+Position: Chaser
+Playing Style: creative, skillfull, collaborative
+Points: 39
+
+Reflex: 9
+Speed: 5
+Strength: 11
+Sight: 8
+Aim: 12
+Fouls: no
+
+
+Drywsone Charles
+Position: Chaser
+Playing Style: collaborative, quick, direct
+Points: 46
+
+Reflex: 9
+Speed: 11
+Strength: 10
+Sight: 9
+Aim: 13
+Fouls: no
+
+
+Julian Fernandez
+Position: Beater
+Playing Style: aggressive, physical, confident
+Points: 46
+
+Reflex: 10
+Speed: 8
+Strength: 14
+Sight: 7
+Aim: 13
+Fouls: yes
+
+
+Tobias Carey
+Position: Beater
+Playing Style: fast, organized, physical 
+Points: 39
+
+Reflex: 8
+Speed: 11
+Strength: 8
+Sight: 7
+Aim: 11
+Fouls: yes
+

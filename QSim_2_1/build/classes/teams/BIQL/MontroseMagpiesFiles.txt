@@ -1,0 +1,92 @@
+Montrose Magpies
+
+Kieran Lowe
+Position: Keeper
+Playing Style: aggressive, confident, cunning
+Points: 42
+
+Reflex: 12
+Speed: 7
+Strength: 8
+Sight: 9
+Aim: 12
+Fouls: yes
+
+
+Walter Chan
+Position: Seeker
+Playing Style: cunning, creative, skillful
+Points: 50
+
+Reflex: 12
+Speed: 11
+Strength: 8
+Sight: 12
+Aim: 13
+Fouls: yes
+
+
+Iliana Morgan
+Position: Chaser
+Playing Style: collaborative, creative, direct
+Points: 43
+
+Reflex: 9
+Speed: 8
+Strength: 10
+Sight: 9
+Aim: 13
+Fouls: no
+
+
+Ragnar Storm
+Position: Chaser
+Playing Style: physical, direct, selfish
+Points: 43
+
+Reflex: 9
+Speed: 10
+Strength: 11
+Sight: 6
+Aim: 12
+Fouls: yes
+
+
+Aspen Starlington
+Position: Chaser
+Playing Style: fast, direct, organized
+Points: 38
+
+Reflex: 8
+Speed: 10
+Strength: 7
+Sight: 8
+Aim: 11
+Fouls: no
+
+
+Ezequiel Vargas
+Position: Beater, Captain
+Playing Style: cunning, direct, confident
+Points: 57
+
+Reflex: 12
+Speed: 13
+Strength: 12
+Sight: 11
+Aim: 15
+Fouls: yes
+
+
+Edward Wilkinson
+Position: Beater
+Playing Style: direct, collaborative, cunning
+Points: 49
+
+Reflex: 10
+Speed: 11
+Strength: 10
+Sight: 10
+Aim: 14
+Fouls: yes
+

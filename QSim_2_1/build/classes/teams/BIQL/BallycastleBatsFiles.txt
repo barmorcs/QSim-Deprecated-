@@ -1,0 +1,92 @@
+Ballycastle Bats
+
+Ben Russell
+Position: Keeper, Captain
+Playing Style: cautious, creative, collaborative
+Points: 57
+
+Reflex: 15
+Speed: 11
+Strength: 9
+Sight: 14
+Aim: 14
+Fouls: no
+
+
+Seimon Prosser
+Position: Seeker
+Playing Style: cunning, fast, confident
+Points: 39
+
+Reflex: 7
+Speed: 13
+Strength: 5
+Sight: 10
+Aim: 10
+Fouls: yes
+
+
+Leonardo Lynx
+Position: Chaser
+Playing Style: creative, cautious, organized
+Points: 39
+
+Reflex: 10
+Speed: 7
+Strength: 8
+Sight: 9
+Aim: 11
+Fouls: no
+
+
+Gideon Sloan
+Position: Chaser
+Playing Style: direct, collaborative, cunning
+Points: 52
+
+Reflex: 11
+Speed: 11
+Strength: 11
+Sight: 11
+Aim: 14
+Fouls: yes
+
+
+Archie Booth
+Position: Chaser
+Playing Style: quick, creative, skillful
+Points: 50
+
+Reflex: 12
+Speed: 10
+Strength: 12
+Sight: 9
+Aim: 13
+Fouls: no
+
+
+Oringo Okonjo
+Position: Beater
+Playing Style: physical, aggressive, cunning
+Points: 45
+
+Reflex: 11
+Speed: 9
+Strength: 11
+Sight: 7
+Aim: 13
+Fouls: yes
+
+
+Megan Parry
+Position: Beater
+Playing Style: selfish, direct, aggressive
+Points: 43
+
+Reflex: 10
+Speed: 9
+Strength: 11
+Sight: 7
+Aim: 11
+Fouls: yes
+

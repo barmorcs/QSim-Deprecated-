@@ -1,0 +1,50 @@
+Slytherin
+Gemma Wolfewood
+8
+4
+6
+6
+6
+false
+Asher Roscoe
+8
+8
+5
+9
+10
+true
+Aureo Macias
+7
+6
+9
+5
+8
+false
+Redding Fox
+6
+6
+6
+5
+8
+true
+Dominic Anglin
+5
+4
+5
+3
+4
+true
+Melissa Barre
+3
+3
+5
+4
+4
+true
+Wilhelmina Waldorf Astor
+5
+6
+10
+5
+6
+true
